@@ -1,8 +1,8 @@
 # Number Guessing Game 🎯
 
-My second Python project!
+My second Python project — a simple number guessing game built using Python.
 
-A simple number guessing game where the computer randomly selects a number between 1 and 10, and the player has 3 chances to guess it correctly.
+The computer randomly selects a number between 1 and 10, and the player has 3 chances to guess it correctly.
 
 ## Features
 - Random number generation
