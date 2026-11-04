@@ -10,7 +10,7 @@ while attempt > 0 :
         print("YOU WON🎊")
         break
     elif n < p:
-        print("GO lower:⬇️")
+        print("GO Lower:⬇️")
     elif n > p:
         print("GO Higher:⬆️")
 
